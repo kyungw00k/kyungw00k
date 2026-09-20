@@ -5,7 +5,6 @@
 - **proxytap** — rotating anonymous-proxy gateway with MITM detection (daemon + menubar app)
 - **anthropic-openai-proxy-go** — Go library proxying the Anthropic Messages API to OpenAI-compatible endpoints
 - **upbit** — AI-native CLI for the Upbit crypto exchange
-- **seleniumbase-go** — SeleniumBase-style browser automation in Go
 
 #### Contributions
 
